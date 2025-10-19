@@ -2,6 +2,8 @@
 
 ### Sinopsis
 
+Nous allons accueillir nos invités pour une soirée inoubliable.
+
 | Personnage | Action                |
 | ---------- | --------------------- |
 | Antoine    | Ouvre la porte        |

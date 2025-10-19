@@ -1,0 +1,1 @@
+- Avoir quelqu'un à l'entrée de chaque atelier pour s'assurer que l'atelier est vide avant de laisser entrer le groupe suivant.
