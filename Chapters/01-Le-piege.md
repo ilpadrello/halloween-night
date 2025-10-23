@@ -27,3 +27,55 @@ Les invités descendent et s’enfoncent dans la forêt, guidés par des sons é
 ## Intervention du rescapé
 
 Au dernier moment, un rescapé surgit, tire en l’air pour disperser les cultistes, et guide les invités vers la suite de l’aventure…
+
+# Personnages
+
+| Role    | Description Des Actions                         |
+| ------- | ----------------------------------------------- |
+| Pretre  | Accueil et Intervention dans les bois           |
+| Rescapé | Intervention dans les bois et Retour à la Ferme |
+
+
+# Cast
+
+
+| Nombre | Role               | Notes                                  |
+| ------ | ------------------ | -------------------------------------- |
+| 1      | Pretre             |                                        |
+| 1      | Rescapé            |                                        |
+| 1      | Chauffeur Tracteur |                                        |
+| 5      | Cultistes          | 1-2 Cultiste avec Voiture pour revenir |
+|        |                    |                                        |
+
+
+# Materiel
+
+| Nom                              | Nombre | Utilisation                     |
+| -------------------------------- | ------ | ------------------------------- |
+| Enceinte Betaillere (Puissante)  | 1      | Enregistrement Pretre / Rescapé |
+| Repoduction Sonore pour Enceinte | 1      |                                 |
+
+
+## Props
+
+| Nom           | Nombre | Description                                    |
+| ------------- | ------ | ---------------------------------------------- |
+| Faux Pistolet | 1      | Tirer à l'aire pour faire partir les cutlistes |
+
+
+# Scenografie
+
+## SFX
+
+| Nom                    | Description | Notes |
+| ---------------------- | ----------- | ----- |
+| Enregistrement Pretre  |             |       |
+| Enregistrement Rescapé |             |       |
+|                        |             |       |
+# TO DO
+
+| Nom                 |     |
+| ------------------- | --- |
+| Strapuntin Tracteur |     |
+| Capacité Betaillere |     |
+|                     |     |

@@ -2,5 +2,5 @@
 | -------- | ---------------------------------------- |
 | actor    |                                          |
 | role     | Pretre                                   |
-| costumes | Important items or gear.                 |
+| costumes | Costume de pretre /                      |
 | notes    | Additional details, lore, or usage tips. |
