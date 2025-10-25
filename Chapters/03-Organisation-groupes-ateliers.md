@@ -10,7 +10,8 @@
 Chaque groupe passera par les trois ateliers, dans un ordre différent, avant de se retrouver pour la suite de l’aventure.
 
 
-| Group | Ordre Atelier |
-| ----- | ------------- |
-| Rouge | 1-2-3-4       |
-| Bleu  | 2-3-4-1       |
+| Group   | Ordre Atelier |
+| ------- | ------------- |
+| Rouge   | 1-2-(3-4)     |
+| Bleu    | 2-(3-4)-1     |
+| Inactif | (3-4)-1-2     |
