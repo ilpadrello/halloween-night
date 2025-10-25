@@ -54,9 +54,7 @@ Départ dans une ambiance faussement rassurante qui devient progressivement inqu
 
 **⚠️ ÉLÉMENTS VITAUX**
 
-- **240 bracelets papier** : 60 rouges, 60 verts, 60 bleus, 60 jaunes
 - Sono dans la bétaillère (micro + enceinte)
-- Distribution bracelets pendant trajet (aides/complices)
 
 ---
 
@@ -146,91 +144,24 @@ Le tracteur ralentit en arrivant au village. Le Rescapé dit : _"Attendez... On 
 
 ---
 
-**ARRIVÉE AU CHAMPS D'ATTENTE**
+**ARRIVÉE AU VILLAGE
 
-Le tracteur s'arrête devant le portail du champ grillagé. Des villageois "possédés" (4-5 cultistes) surgissent et traînent le Rescapé hors de vue en criant. Les participants sont poussés dans le champs clôturé.
-
----
-
-**🏕️ PARTIE 2 : CHAMPS D'ATTENTE (30 MIN)**
-
-**SCÈNE 4 : LE CHAMPS GRILLAGÉ**
-
-**Horaire :** 20h30-21h00  
-**Lieu :** Petit champs entouré grillage/barrières  
-**Participants :** Tous au départ, puis départs échelonnés par groupe
-
-**AMBIANCE**
-
-Zone éclairée par torches/lanternes. En face (3m), derrière grillage : cave avec porte entrouverte, lumière rouge pulsante. Atmosphère d'attente angoissante. Sons inquiétants venant de la cave. Processions de cultistes qui passent. Gardien qui ricane et fait des commentaires menaçants.
-
-**OBJECTIF**
-
-Occuper les participants pendant que les groupes partent un par un. Maintenir la tension et l'immersion.
-
-**⚠️ ÉLÉMENTS VITAUX**
-
-- **Grillage/barrières** délimitant le champs (~100m²)
-- **Portail unique** (sortie contrôlée)
-- **Torches/lanternes** pour éclairer
-- **Cave visible en face** : porte entrouverte, lumière rouge LED, sono pour effets sonores
-
-**ANIMATIONS (BOUCLES)**
-
-**1. LA CAVE (séquence 3 min qui boucle)** :
-
-- Lumière rouge pulsante
-- Ombres chinoises projetées (silhouettes torturées)
-- Cris étouffés, gémissements
-- Chants grégoriens inversés
-- Flash blanc soudain (= expulsion d'âme)
-- Rire démoniaque
-- Silence 10 sec... puis ça recommence
-
-**2. PROCESSIONS DES CULTISTES (toutes les 10 min)** :
-
-- 4-5 cultistes en file indienne
-- Portent torches/lanternes
-- Transportent sacs (= "faux cristaux trouvés")
-- Chantent : _"La Bête arrive... La Bête nous libère..."_
-- Passent devant le champ, vont vers le silo
-
-**3. GARDIEN DU CHAMPS (acteur présent en continu)** :
-
-- Fait les cents pas devant le portail
-- Ricane en observant les participants
-- Phrases aléatoires :
-
-- _"Vous croyez pouvoir vous échapper ?"_
-- _"La Bête sera bientôt parmi nous..."_
-- _"Vos efforts sont inutiles..."_
-- _"Vous allez TOUS nous servir..."_
-
-**DÉPARTS ÉCHELONNÉS (8 min d'intervalle)**
-
-Un cultiste vient chercher chaque groupe devant le portail :
-
-_"Vous, les Rouges/Verts/Bleus/Jaunes ! C'est votre tour ! Suivez-moi ! On a besoin de vous pour retrouver les cristaux. Le traître en a caché exactement 20 dans chaque zone. Il faut TOUS les trouver. Allez, en route !"_
-
-|**Horaire**|**Groupe**|**Couleur bracelet**|
-|---|---|---|
-|20h35|Groupe 1|ROUGE|
-|20h43|Groupe 2|VERT|
-|20h51|Groupe 3|BLEU|
-|20h59|Groupe 4|JAUNE|
+Le tracteur s'arrête devant le portail du champ grillagé. Des villageois "possédés" (2 cultistes) surgissent et traînent le Rescapé hors de vue en criant. Les participants sont séparé en deux groupes par deux cultistes.
 
 ---
 
 **🎯 PARTIE 3 : LES ATELIERS (40 MIN/GROUPE)**
 
-**PARCOURS TYPE D'UN GROUPE**
+**PARCOUR GROUPE A**
 
-**Champs d'attente** → **Cour de Ferme (12 min)** → **Retour + Mur écroulé (2 min)** → **Clairière (15 min)** → **Portail + Chemin (3 min)** → **Maison Hantée (2 min)** → **Cimetière (12 min)** → **Vers Silo**
+Tracteur → **Cour de Ferme (12 min)** → **Chemin Mur écroulé (2 min)** → **Cimetière (15 min)** → **Portail + Chemin (3 min)** → **Maison Hantée (2 min)** → **Clairiére (12 min)** → **Vers Silo**
+**PARCOUR GROUPE B**
+Tracteur → **Cour de Ferme (12 min)** → **Retour + Mur écroulé (2 min)** → **Clairière (15 min)** → **Portail + Chemin (3 min)** → **Maison Hantée (2 min)** → **Cimetière (12 min)** → **Vers Silo**
+
 
 **TOTAL : ~40 min + attente au silo**
 
 ---
-
 **🏚️ ATELIER 1 : COUR DE FERME (12 min)**
 
 **Participants :** 15 personnes (1 groupe)  
