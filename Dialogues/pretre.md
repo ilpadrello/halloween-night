@@ -18,3 +18,4 @@ Vous, qui avez répondu à l'appel, n'êtes pas de simples témoins : vous êtes
 "(en voix basse, menaçante) Qu'on scelle le cercle."
 
 (brève pause, acte — bruit/effet pour déclencher la suite)
+TEST
