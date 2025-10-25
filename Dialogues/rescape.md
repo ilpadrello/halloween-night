@@ -49,6 +49,9 @@ Nous somme presque arrivé... silence maintenant"
 
 "(avant d'être emmené) Trouvez les cristaux. Ne vous arrêtez jamais."
 
+DES CRIES COMME SI ON LUI COUPE UNE JAMBE
+
+
 ## Partie live (à jouer en interaction — court et urgent)
 
 (cris, voix forte) VADE RETRO SATANA !

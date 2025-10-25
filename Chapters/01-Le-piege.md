@@ -39,13 +39,13 @@ Au dernier moment, un rescapé surgit, tire en l’air pour disperser les cultis
 # Cast
 
 
-| Nombre | Role               | Notes                                  |
-| ------ | ------------------ | -------------------------------------- |
-| 1      | Pretre             |                                        |
-| 1      | Rescapé            |                                        |
-| 1      | Chauffeur Tracteur |                                        |
-| 5      | Cultistes          | 1-2 Cultiste avec Voiture pour revenir |
-|        |                    |                                        |
+| Nombre | Role               | Notes                                                                                 |
+| ------ | ------------------ | ------------------------------------------------------------------------------------- |
+| 1      | Pretre             |                                                                                       |
+| 1      | Rescapé            |                                                                                       |
+| 1      | Chauffeur Tracteur |                                                                                       |
+| 4-5    | Cultistes Bois     | 1-2 Cultiste avec Voiture pour revenir                                                |
+| 1-2    | Cultistes Retour   | 1-2 Cultiste qui accueil le party (au moins un qui connait comment diviser les gents) |
 
 
 # Materiel
@@ -54,6 +54,7 @@ Au dernier moment, un rescapé surgit, tire en l’air pour disperser les cultis
 | -------------------------------- | ------ | ------------------------------- |
 | Enceinte Betaillere (Puissante)  | 1      | Enregistrement Pretre / Rescapé |
 | Repoduction Sonore pour Enceinte | 1      |                                 |
+|                                  |        |                                 |
 
 
 ## Props
@@ -61,9 +62,9 @@ Au dernier moment, un rescapé surgit, tire en l’air pour disperser les cultis
 | Nom           | Nombre | Description                                    |
 | ------------- | ------ | ---------------------------------------------- |
 | Faux Pistolet | 1      | Tirer à l'aire pour faire partir les cutlistes |
+| Troçonneuse   | 1      | Pour Audio du rescapé                          |
 
-
-# Scenografie
+# Scénographie
 
 ## SFX
 
@@ -74,8 +75,16 @@ Au dernier moment, un rescapé surgit, tire en l’air pour disperser les cultis
 |                        |             |       |
 # TO DO
 
-| Nom                 |     |
-| ------------------- | --- |
-| Strapuntin Tracteur |     |
-| Capacité Betaillere |     |
-|                     |     |
+| Nom                                                            |     |
+| -------------------------------------------------------------- | --- |
+| Strapuntin Tracteur                                            |     |
+| Capacité Betaillere                                            |     |
+| Enregister les dialogues                                       |     |
+| Preparer la bétaillère avec Enceinte                           |     |
+| Preparation du scénographie Rituel                             |     |
+| Assurer la sécurité du passage dans les bois (allez et retour) |     |
+| Trouver les props                                              |     |
+| Assurer les costumes                                           |     |
+# Danger Sécurité
+| Danger | Action Pour Securiser |
+| ------ | --------------------- |
