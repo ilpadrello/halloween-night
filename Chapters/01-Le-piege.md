@@ -67,24 +67,25 @@ Total Partie 1 (Trajet + Rituel + Retour) : 30 min (détaillé ci‑dessous — 
 
 # TO DO
 
-| Nom                                                                |                         |
-| ------------------------------------------------------------------ | ----------------------- |
-| Valider capacité et permis d'embarquement (bétaillère)             | Responsable: Logistique |
-| Préparer et tester les enregistrements (Rescapé 5')                | Responsable: Audio      |
-| Préparer le monologue du Sauveur (live) et diffusion en bétaillère | Responsable: Direction  |
-| Préparer fichier audio Chants latin boucle                         |                         |
-| Installer sono dans la bétaillère + test de volume                 | Responsable: Technique  |
-| Construire autel                                                   | Responsable: Décor      |
-| Préparer méthode de séparation par cultiste                        | Responsable: Casting    |
-| Préparer torches LED / balisage chemin                             | Responsable: Décor/Log. |
-| Vérifier costumes cultistes et répétitions (entrées/sorties)       | Responsable: Casting    |
-| Briefing sécurité acteurs + marshals (codes d'arrêt)               | Responsable: Sécurité   |
+| Nom                                                                    |                         |
+| ---------------------------------------------------------------------- | ----------------------- |
+| Valider capacité et permis d'embarquement (bétaillère)                 | Responsable: Logistique |
+| Préparer et tester les enregistrements (Rescapé 5')                    | Responsable: Audio      |
+| Préparer le monologue du Sauveur (live) et diffusion en bétaillère     | Responsable: Direction  |
+| Préparer fichier audio Chants latin boucle                             |                         |
+| Installer sono dans la bétaillère + test de volume                     | Responsable: Technique  |
+| Construire autel                                                       | Responsable: Décor      |
+| Préparer méthode de séparation par cultiste                            | Responsable: Casting    |
+| Préparer torches LED / balisage chemin                                 | Responsable: Décor/Log. |
+| Vérifier costumes cultistes et répétitions (entrées/sorties)           | Responsable: Casting    |
+| Briefing sécurité acteurs + marshals (codes d'arrêt)                   | Responsable: Sécurité   |
+| S'assurer que le costume du gran prêtre soit amené dans les bois avant | Responsable: Décor/Log. |
 
 # Danger Sécurité
 
-| Danger                                    | Action Pour Securiser                                                           |
-| ----------------------------------------- | ------------------------------------------------------------------------------- |
-| Flammes nues près du public               | Interdire ; n'utiliser que bougies LED et torches électriques                   |
-| Surcapacité dans la bétaillère            | Vérifier la capacité légale ; limiter le nombre et marquer clairement la limite |
-| Panique / bousculade à l'embarquement     | Marshals dédiés au flux, briefing règles de comportement, accès secours dégagé  |
-| Obstacles / faible visibilité             | Baliser les chemins, éclairage d'appoint, sols non glissants                    |
+| Danger                                | Action Pour Securiser                                                          |
+| ------------------------------------- | ------------------------------------------------------------------------------ |
+| Panique / bousculade à l'embarquement | Marshals dédiés au flux, briefing règles de comportement, accès secours dégagé |
+| Obstacles / faible visibilité         | Baliser les chemins, éclairage d'appoint, sols non glissants                   |
+| Panique Génereale                     | Assurer un discours de bienveillance et de sécurité avant l'évenement          |
+|                                       |                                                                                |
