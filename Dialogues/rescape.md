@@ -5,7 +5,7 @@
 (arrivée en courant, haletant) Tir De pistolet !
 
 "COUREZ ! C'est un piège ! "
-"VITE !!!! Ils veulent vous sacrifier ! Montez sur la bétaillère"
+"VITE !!!! Ils veulent vous sacrifier ! Montez dans la bétaillère"
 "Faite Vite, j'ai plus de balle dans mon arme, ils vont bientôt revenir".
 "Allez allez allez".
 "Tenez vous bien"
