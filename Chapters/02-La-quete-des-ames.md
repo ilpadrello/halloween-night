@@ -11,11 +11,11 @@ De retour dans la bétaillère, le rescapé révèle la vérité aux invités :
 
 ## Attaque du sauveur
 
-De retour à la ferme, le "sauveur" est attaqué par d’autres cultistes qui l’emmènent en criant : "Trouvez les âmes, trouvez les cristaux !".
+De retour à la ferme, le "sauveur" est attaqué par d’autres cultistes qui l’emmènent en criant : "Trouvez les âmes! Trouvez les cristaux! Tout dépend de vous maintenant!".
 
 ## Début des ateliers
 
-Les cultistes font descendre les participants de la bétaillère : c’est alors que commencent les ateliers et les épreuves pour retrouver les cristaux et sauver le village…
+Les cultistes font descendre les participants de la bétaillère et les divisent en deux groupes : c’est alors que commencent les ateliers et les épreuves pour retrouver les cristaux et sauver le village…
 
 # Timing
 
