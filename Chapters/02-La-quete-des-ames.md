@@ -21,12 +21,12 @@ Les cultistes font descendre les participants de la bétaillère et les divisent
 
 # Timing
 
-- Monologue / révélation du Rescapé (enregistrement) : ~5 min (pendant le retour tracteur)
-- Début des ateliers / brief groupes : partie ateliers commence dans la fenêtre 20h35-21h20 (rotations 40 min/groupe)
+- Retour / Monologue / révélation du Rescapé (enregistrement) : ~5 min 20h25 à 20h30 (pendant le retour tracteur)
+- Début des ateliers / brief groupes : partie ateliers commence à 20h30 fin à 21h10 (rotations 40 min/groupe)
 # Cast
-| Nombre | Role             | Notes                                                                                  |
-| ------ | ---------------- | -------------------------------------------------------------------------------------- |
-| 1-2    | Cultistes Retour | 1-2 Cultiste qui accueil le groupe (au moins un qui connait comment diviser les gents) |
+| Nombre | Role           | Notes                                                                                  |
+| ------ | -------------- | -------------------------------------------------------------------------------------- |
+| 1-2    | Cultiste-Guide | 1-2 Cultiste qui accueil le groupe (au moins un qui connait comment diviser les gents) |
 
 ## Props
 | Nom                                          | Nombre | Description                              | Type  | VITAL | Notes                                      |

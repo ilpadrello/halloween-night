@@ -25,10 +25,8 @@ Au dernier moment, un rescapé surgit, tire en l’air pour disperser les cultis
 # Timing
 
 - Trajet tracteur (Parking → Bois) : 10 min (Scène 1)
-- Rituel dans les bois (Clairière) : 15 min (Scène 2)
-- Retour / Embarquement chaotique (Bétaillère) : 5 min (Scène 3)
-
-Total Partie 1 (Trajet + Rituel + Retour) : 30 min (détaillé ci‑dessous — le Déroulé liste 25 min pour les deux premières scènes : Trajet 10 + Rituel 15)
+- Rituel dans les bois (Clairière) : 10 min (Scène 2)
+- Embarquement chaotique (Bétaillère) : 5 min (Scène 3)
 
 # Cast
 
