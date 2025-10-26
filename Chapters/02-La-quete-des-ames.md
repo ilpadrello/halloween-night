@@ -9,6 +9,8 @@ De retour dans la bétaillère, le rescapé révèle la vérité aux invités :
 - Le rescapé a réussi à récupérer certains cristaux et à les cacher dans les environs. Il manque encore des âmes à sauver.
 - Il a besoin de l’aide des participants pour retrouver tous les cristaux et découvrir comment rendre les âmes à leurs propriétaires. Des indices ont été disséminés pour guider la recherche.
 
+Les cultistes tapent sur la bétaillère qui s'en vas pendant 5 secondes
+
 ## Attaque du sauveur
 
 De retour à la ferme, le "sauveur" est attaqué par d’autres cultistes qui l’emmènent en criant : "Trouvez les âmes! Trouvez les cristaux! Tout dépend de vous maintenant!".

@@ -16,7 +16,7 @@ Les invités descendent et s’enfoncent dans la forêt, guidés par des sons é
 
 - Un autel, des bougies, des symboles au sol.
 - Des cultistes surgissent et encerclent les invités.
-- Le piège se referme : les invités sont destinés à être sacrifiés pour permettre à un démon très puissant de franchir la frontière entre les mondes.
+- Le piège se referme : les invités sont destinés à être sacrifiés pour permettre à un démon très puissant de franchir la frontière entre les mondes. Le prétre les a trahi, il revet le costumes des cultistes, robe (rouge et non noire) et masque.
 
 ## Intervention du rescapé
 
@@ -30,90 +30,61 @@ Au dernier moment, un rescapé surgit, tire en l’air pour disperser les cultis
 
 Total Partie 1 (Trajet + Rituel + Retour) : 30 min (détaillé ci‑dessous — le Déroulé liste 25 min pour les deux premières scènes : Trajet 10 + Rituel 15)
 
-# Personnages
-
-| Role    | Description Des Actions                         |
-| ------- | ----------------------------------------------- |
-| Pretre  | Accueil et Intervention dans les bois           |
-| Rescapé | Intervention dans les bois et Retour à la Ferme |
-| Accueil | Accueil les invitées                            |
-
 # Cast
 
 | Nombre | Role                         | Notes                                                                                 |
 | ------ | ---------------------------- | ------------------------------------------------------------------------------------- |
-| 1      | Pretre                       |                                                                                       |
-| 1      | Rescapé                      |                                                                                       |
+| 1      | Pretre                       | Départ et Intervention dans les bois                                                  |
+| 1      | Rescapé                      | Intervention dans les bois et Retour à la Ferme                                       |
 | 1      | Chauffeur Tracteur / Accueil | Accueil les gents dans le parking                                                     |
 | 4-5    | Cultistes Bois               | 1-2 Cultiste avec Voiture pour revenir                                                |
 | 1-2    | Cultistes Retour             | 1-2 Cultiste qui accueil le party (au moins un qui connait comment diviser les gents) |
 
-# Materiel
+# Props
 
-| Nom                              | Nombre | Utilisation                                                |
-| -------------------------------- | ------ | ---------------------------------------------------------- |
-| Enceinte Betaillere (Puissante)  | 1      | Sono / diffusion en bétaillère (micro + enceinte)          |
-| Repoduction Sonore pour Enceinte | 1      | Lecteur audio portable / playlist SFX                      |
-| Autel (caisse + tissu noir)      | 1      | Mise en scène rituel                                       |
-| Mannequins / sacs                | 5-6    | Victimes attachées autour du cercle                        |
-| Cristaux LED (pour le prêtre)    | 3-5    | Prop visible pendant le rituel                             |
-| Cristaux LED (réserve ateliers)  | 20+    | Répartition pour ateliers (réapprovisionnement)            |
-| Torches / bougies LED            | 10-20  | Éclairage de la clairière, sécurité (pas de flamme)        |
-| Machine à fumée (portative)      | 1      | Effet atmosphérique (optionnel)                            |
-| Lanternes / éclairage chemin     | 6-12   | Baliser le trajet vers la clairière                        |
-| Bracelets couleur (R/V/B/J)      | 60-80  | Former 4 groupes (Rouge/Vert/Bleu/Jaune)                   |
-| Enregistrements audio (fichiers) | 2-3    | `Dialogues/rescape.md` (5'), `Dialogues/pretre.md` (intro) |
-| Panneaux / signalisation         | -      | Indiquer flux, points de sortie, zones sécurisées          |
-
-## Props
-
-| Nom                                   | Nombre | Description                                                   |
-| ------------------------------------- | ------ | ------------------------------------------------------------- |
-| Faux Pistolet                         | 1      | Effet sonore / geste non dangereux pour disperser cultistes   |
-| Tronçonneuse (prop, sans chaîne)      | 1      | Accessoire pour jump scare (distance sécurisée)               |
-| Autel (caisse + tissu)                | 1      | Plateforme pour cristaux LED et mise en scène                 |
-| Cristaux LED (petits)                 | 10+    | Petits éléments lumineux à brandir / cacher                   |
-| Mannequins / sacs                     | 5-6    | Victimes attachées                                            |
-| Costumes cultistes (robes + capuches) | 6+     | Pour les cultistes présents sur la scène                      |
-| Torches LED / lanternes               | 10-20  | Éclairage sans flamme                                         |
-| Bracelets couleurs (pack)             | 4 sets | Rouges / Verts / Bleus / Jaunes (quantité selon participants) |
-| Symboles au sol (craie/farine/cordes) | -      | Marquage du cercle rituel                                     |
-
-# Scénographie
+| Nom                                            | Nombre | Utilisation                                                                 | Scénographie                |
+| ---------------------------------------------- | ------ | --------------------------------------------------------------------------- | --------------------------- |
+| Enceinte Betaillere (Puissante)                | 1      | Sono / diffusion en bétaillère (micro + enceinte)                           |                             |
+| Repoduction Sonore pour Enceinte Betaillére    | 1      | Lecteur audio portable / playlist SFX                                       |                             |
+| Enceinte Bois                                  | 1      | Chants en latin                                                             |                             |
+| Repoduction Sonore pour Enceinte Bois          | 1      | Lecteur audio portable / playlist SFX                                       |                             |
+| Autel (caisse + tissu noir)                    | 1      | Mise en scène rituel                                                        | Non vital                   |
+| Torches / bougies LED                          | 10-20  | Éclairage de la clairière, sécurité (pas de flamme)                         | Non vital, mais presque     |
+| Lanternes / éclairage chemin                   | 6-12   | Baliser le trajet vers la clairière                                         | VITAL, en rubalise possible |
+| Enregistrements audio (fichiers)               | 3      | `Dialogues/rescape.md` (5'), `Dialogues/pretre.md` (intro) <br>Chants Latin |                             |
+| Faux Pistolet                                  | 1      | Effet sonore / geste non dangereux pour disperser cultistes                 |                             |
+| Costumes cultistes (robes noires + capuches)   | 6+     | Pour les cultistes présents sur la scène                                    |                             |
+| Costumes Grand Prêtre (robes Rouge + capuches) | 1      | Pour le prêtre, a mettre au moment de la trahison                           |                             |
+| Symboles au sol (craie/farine/cordes)          | 1      | Marquage du cercle rituel                                                   | VITAL                       |
 
 ## SFX
 
-| Nom                         | Description                                | Notes                                                  |
-| --------------------------- | ------------------------------------------ | ------------------------------------------------------ |
-| Enregistrement Prêtre       | Discours d'invocation (loop/segments)      | voir `Dialogues/pretre.md` (version live/entraînement) |
-| Enregistrement Rescapé      | Message 4-5 min diffusé dans la bétaillère | voir `Dialogues/rescape.md` (fichier d'enregistrement) |
-| Sons rituels / chants       | Boucle ambience pour la clairière          | volume modulable pour sécurité                         |
-| Effet coups bétaillère      | Impact sonore au départ (synchroniser)     | court (3-4s) au démarrage                              |
-| Grondements basse fréquence | montée de tension sous la scène            | utiliser sub-bass si dispo                             |
+| Nom                    | Description                                | Notes                                                  |
+| ---------------------- | ------------------------------------------ | ------------------------------------------------------ |
+| Enregistrement Prêtre  | Discours d'invocation (loop/segments)      | voir `Dialogues/pretre.md` (version live/entraînement) |
+| Enregistrement Rescapé | Message 4-5 min diffusé dans la bétaillère | voir `Dialogues/rescape.md` (fichier d'enregistrement) |
+| Sons rituels / chants  | Boucle ambiance pour la clairière          | volume modulable pour sécurité                         |
 
 # TO DO
 
-| Nom                                                                        |                         |
-| -------------------------------------------------------------------------- | ----------------------- |
-| Valider capacité et permis d'embarquement (bétaillère)                     | Responsable: Logistique |
-| Préparer et tester les enregistrements (Rescapé 5')                        | Responsable: Audio      |
-| Préparer le monologue du Sauveur (live) et diffusion en bétaillère         | Responsable: Direction  |
-| Installer sono dans la bétaillère + test de volume                         | Responsable: Technique  |
-| Construire autel et positionner mannequins                                 | Responsable: Décor      |
-| Préparer et tester machine à fumée (sécurité + ventilation)                | Responsable: Technique  |
-| Préparer méthode de séparation par cultiste (ne pas utiliser de bracelets) | Responsable: Casting    |
-| Préparer torches LED / balisage chemin                                     | Responsable: Décor/Log. |
-| Vérifier costumes cultistes et répétitions (entrées/sorties)               | Responsable: Casting    |
-| Briefing sécurité acteurs + marshals (codes d'arrêt)                       | Responsable: Sécurité   |
-| Préparer panneaux / signalisation pour flux participant                    | Responsable: Logistique |
+| Nom                                                                |                         |
+| ------------------------------------------------------------------ | ----------------------- |
+| Valider capacité et permis d'embarquement (bétaillère)             | Responsable: Logistique |
+| Préparer et tester les enregistrements (Rescapé 5')                | Responsable: Audio      |
+| Préparer le monologue du Sauveur (live) et diffusion en bétaillère | Responsable: Direction  |
+| Préparer fichier audio Chants latin boucle                         |                         |
+| Installer sono dans la bétaillère + test de volume                 | Responsable: Technique  |
+| Construire autel                                                   | Responsable: Décor      |
+| Préparer méthode de séparation par cultiste                        | Responsable: Casting    |
+| Préparer torches LED / balisage chemin                             | Responsable: Décor/Log. |
+| Vérifier costumes cultistes et répétitions (entrées/sorties)       | Responsable: Casting    |
+| Briefing sécurité acteurs + marshals (codes d'arrêt)               | Responsable: Sécurité   |
 
 # Danger Sécurité
 
-| Danger                                    | Action Pour Securiser                                                            |
-| ----------------------------------------- | -------------------------------------------------------------------------------- |
-| Flammes nues près du public               | Interdire ; n'utiliser que bougies LED et torches électriques                    |
-| Surcapacité dans la bétaillère            | Vérifier la capacité légale ; limiter le nombre et marquer clairement la limite  |
-| Panique / bousculade à l'embarquement     | Marshals dédiés au flux, briefing règles de comportement, accès secours dégagé   |
-| Machine à fumée mal ventilée              | Tester ventilation ; limiter durée d'utilisation ; avoir extincteurs à proximité |
-| Accessoires dangereux (tronçonneuse prop) | Maintenir distance ; acteur formé ; signal sonore avant apparition               |
-| Obstacles / faible visibilité             | Baliser les chemins, éclairage d'appoint, sols non glissants                     |
+| Danger                                    | Action Pour Securiser                                                           |
+| ----------------------------------------- | ------------------------------------------------------------------------------- |
+| Flammes nues près du public               | Interdire ; n'utiliser que bougies LED et torches électriques                   |
+| Surcapacité dans la bétaillère            | Vérifier la capacité légale ; limiter le nombre et marquer clairement la limite |
+| Panique / bousculade à l'embarquement     | Marshals dédiés au flux, briefing règles de comportement, accès secours dégagé  |
+| Obstacles / faible visibilité             | Baliser les chemins, éclairage d'appoint, sols non glissants                    |
