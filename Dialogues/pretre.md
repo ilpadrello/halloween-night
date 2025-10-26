@@ -13,7 +13,7 @@
 - 
 
 "Merci, encore merci d'avoir répondu aussi vite à mon appel à l'aide"
-"mes frère et seures, je sais que vous vous posez beaucoup de questions"
+"mes frère et sœurs, je sais que vous vous posez beaucoup de questions, et je vais y répondre du mieux que je peux. Je vous ai demandé de venir si vite car je suis inquiet. Vraiment très inquiet. Depuis quelques jours, la plupart des villageois ont disparu. Ce n'est pas normal. Vraiment pas normal. J'ai beaucoup d'habitué vous savez. Ils viennent me voir régulièrement et toujours aux même horaires. Mais pas cette semaine. Non, pas cette semaine... Cette semaine, le village et calme, trop calme. Je n'entend plus les rires des enfants. Les rue sont vides, les maisons aussi "
 
 (Incantation rythmée, chuchotée puis chantée)
 "Lux rubra orbis, animae nobis redeunt. Aeterna tenebrae, domino detur corpus. Vocare, ligare, lumen transfundo."
