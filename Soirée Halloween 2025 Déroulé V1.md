@@ -19,16 +19,16 @@ Au silo, les cultistes réussissent le rituel. La Bête apparaît dans la salle 
 
 **⏱️ TIMELINE GLOBALE**
 
-|**Horaire**|**Phase**|**Lieu**|**Durée**|
-|---|---|---|---|
-|**20h00-20h10**|Accueil + Trajet tracteur|Parking → Bois|10 min|
-|**20h10-20h25**|Rituel d'invocation dans les bois|Forêt|15 min|
-|**20h25-20h30**|Retour tracteur + Champs d'attente|→ Village|5 min|
-|**20h30-21h00**|Attente + Départs échelonnés groupes|Champs grillagé|30 min|
-|**20h35-21h20**|Parcours ateliers (groupes rotation)|Village|40 min/groupe|
-|**21h20-21h40**|Rituel du Silo (tous ensemble)|Silo|20 min|
-|**21h40-22h00**|Finale - La Bête + Danse|Salle des fêtes|20 min|
-|**22h00**|🎉 Début fête + buffet|Salle des fêtes|-|
+| **Horaire**     | **Phase**                            | **Lieu**        | **Durée**     |
+| --------------- | ------------------------------------ | --------------- | ------------- |
+| **20h00-20h10** | Accueil + Trajet tracteur            | Parking → Bois  | 10 min        |
+| **20h10-20h25** | Rituel d'invocation dans les bois    | Forêt           | 15 min        |
+| **20h25-20h30** | Retour tracteur + Champs d'attente   | → Village       | 5 min         |
+| **20h30-21h00** | Attente + Départs échelonnés groupes | Champs grillagé | 30 min        |
+| **20h35-21h20** | Parcours ateliers (groupes rotation) | Village         | 40 min/groupe |
+| **21h20-21h40** | Rituel du Silo (tous ensemble)       | Silo            | 20 min        |
+| **21h40-22h00** | Finale - La Bête + Danse             | Salle des fêtes | 20 min        |
+| **22h00**       | 🎉 Début fête + buffet               | Salle des fêtes | -             |
 
 ---
 
@@ -48,7 +48,7 @@ Départ dans une ambiance faussement rassurante qui devient progressivement inqu
 **OBJECTIFS DE LA SCÈNE**
 
 - Exposer la situation (amis disparus, cris dans les bois)
-- Former les 4 groupes avec bracelets couleur (Rouge/Vert/Bleu/Jaune)
+- Former les groupes : la séparation se fait sur place par un cultiste (acteur) qui connaît certains participants et répartit les personnes en deux groupes en veillant à NE PAS séparer les familles.
 - Créer l'inquiétude progressive
 - Préparer l'arrivée au rituel
 
@@ -60,7 +60,7 @@ Départ dans une ambiance faussement rassurante qui devient progressivement inqu
 
 **📜 MONOLOGUE DU "SAUVEUR" (Traître)**
 
-Le "Sauveur" accueille les participants et les fait monter dans la bétaillère. Pendant le trajet de 10 minutes, il raconte son histoire : des amis ont disparu dans les bois depuis 3 jours, des cris étranges chaque nuit, il a trop peur d'y aller seul. Pendant son monologue, il distribue les bracelets de couleur (Rouge/Vert/Bleu/Jaune) pour former 4 groupes de 15 personnes. Le Sauveur explique que c'est pour mieux s'organiser dans les recherches. Le ton devient progressivement plus sombre. L'ambiance sonore devient plus inquiétante. Le tracteur ralentit et s'arrête à la lisière des bois. Le Sauveur dit : "_On arrive... Descendez doucement. Faites pas de bruit. Je crois qu'il y a quelqu'un là-bas..._"
+Le "Sauveur" accueille les participants et les fait monter dans la bétaillère. Pendant le trajet de 10 minutes, il raconte son histoire : des amis ont disparu dans les bois depuis 3 jours, des cris étranges chaque nuit, il a trop peur d'y aller seul. Le ton devient progressivement plus sombre. L'ambiance sonore devient plus inquiétante. Le tracteur ralentit et s'arrête à la lisière des bois. Le Sauveur dit : "_On arrive... Descendez doucement. Faites pas de bruit. Je crois qu'il y a quelqu'un là-bas..._"
 
 ---
 
@@ -106,7 +106,7 @@ Ton solennel, voix amplifiée si possible :
 
 Ton paniqué, ciant :
 
-I_"NON ! ARRÊTEZ ! Je ne vous laisserai pas faire !"_ Il se tourne vers les participants : _"VOUS ! Vous n'êtes pas censés être là ! COUREZ ! C'est un piège ! Suivez-moi ! VITE !"_ Le Grand Prêtre hurle : _"LE TRAÎTRE ! ATTRAPEZ-LE !"_
+I*"NON ! ARRÊTEZ ! Je ne vous laisserai pas faire !"* Il se tourne vers les participants : _"VOUS ! Vous n'êtes pas censés être là ! COUREZ ! C'est un piège ! Suivez-moi ! VITE !"_ Le Grand Prêtre hurle : _"LE TRAÎTRE ! ATTRAPEZ-LE !"_
 
 **FUITE** Le Rescapé entraîne tout le monde vers un second point d'embarquement (environ 15 mètres). Les cultistes se lancent à leur poursuite en hurlant. Embarquement chaotique dans la bétaillère. Le tracteur démarre en trombe.
 
@@ -144,7 +144,7 @@ Le tracteur ralentit en arrivant au village. Le Rescapé dit : _"Attendez... On 
 
 ---
 
-**ARRIVÉE AU VILLAGE
+\*\*ARRIVÉE AU VILLAGE
 
 Le tracteur s'arrête devant le portail du champ grillagé. Des villageois "possédés" (2 cultistes) surgissent et traînent le Rescapé hors de vue en criant. Les participants sont séparé en deux groupes par deux cultistes.
 
@@ -158,10 +158,10 @@ Tracteur → **Cour de Ferme (12 min)** → **Chemin Mur écroulé (2 min)** →
 **PARCOUR GROUPE B**
 Tracteur → **Cour de Ferme (12 min)** → **Retour + Mur écroulé (2 min)** → **Clairière (15 min)** → **Portail + Chemin (3 min)** → **Maison Hantée (2 min)** → **Cimetière (12 min)** → **Vers Silo**
 
-
 **TOTAL : ~40 min + attente au silo**
 
 ---
+
 **🏚️ ATELIER 1 : COUR DE FERME (12 min)**
 
 **Participants :** 15 personnes (1 groupe)  
@@ -194,13 +194,13 @@ Cour sombre entre bâtiments agricoles. Éclairage faible (lanternes). Objets é
 
 **LES 5 INDICES & LEURS STATIONS**
 
-|**Indice caché**|**Texte**|**Station**|
-|---|---|---|
-|Sous pierre marquée|_"Là où l'eau sombre garde ses secrets"_|Bassine eau noire|
-|Accroché à un clou|_"Dans la poudre blanche des anciens moulins"_|Pot de farine|
-|Fissure du mur|_"Sous la terre grouillante de vie"_|Caisse de terre + vers|
-|Derrière poutre|_"Dans les entrailles du sacrifice"_|Seau viscères|
-|Sous charrette|_"Là où la chair se liquéfie"_|Tonneau gélatine|
+| **Indice caché**    | **Texte**                                      | **Station**            |
+| ------------------- | ---------------------------------------------- | ---------------------- |
+| Sous pierre marquée | _"Là où l'eau sombre garde ses secrets"_       | Bassine eau noire      |
+| Accroché à un clou  | _"Dans la poudre blanche des anciens moulins"_ | Pot de farine          |
+| Fissure du mur      | _"Sous la terre grouillante de vie"_           | Caisse de terre + vers |
+| Derrière poutre     | _"Dans les entrailles du sacrifice"_           | Seau viscères          |
+| Sous charrette      | _"Là où la chair se liquéfie"_                 | Tonneau gélatine       |
 
 **LES 5 STATIONS (3 cristaux chacune = 15)**
 
@@ -301,12 +301,12 @@ Portion de champ aménagée en cimetière. Brume épaisse au sol. 10-12 fausses 
 
 **RÉPARTITION DES 20 CRISTAUX**
 
-|**Emplacement**|**Nombre**|**Détails**|
-|---|---|---|
-|**Tombes**|8|Enterrés ~10cm, indices énigmatiques|
-|**Le Pendu**|6|Poches (4) + sac ceinture (2)|
-|**Cadavres**|4|Mannequins (2) + Acteurs (2)|
-|**Environnement**|2|Tronc creux + sous pierre marquée|
+| **Emplacement**   | **Nombre** | **Détails**                          |
+| ----------------- | ---------- | ------------------------------------ |
+| **Tombes**        | 8          | Enterrés ~10cm, indices énigmatiques |
+| **Le Pendu**      | 6          | Poches (4) + sac ceinture (2)        |
+| **Cadavres**      | 4          | Mannequins (2) + Acteurs (2)         |
+| **Environnement** | 2          | Tronc creux + sous pierre marquée    |
 
 **INDICES ÉNIGMATIQUES (Ecrit en tout petit sur le pendu)**
 
@@ -443,13 +443,13 @@ _"Esprit tourmenté, ferme les yeux, abandonne ta garde, dors en paix, libère l
 
 **📊 RÉCAPITULATIF CRISTAUX PAR GROUPE**
 
-|**Atelier**|**Cristaux**|**Temps**|
-|---|---|---|
-|**Cour de Ferme**|20|12 min|
-|**Clairière**|20|15 min|
-|**Cimetière**|20|12 min|
-|**Transitions**|0|6 min|
-|**TOTAL**|**60**|**~40 min**|
+| **Atelier**       | **Cristaux** | **Temps**   |
+| ----------------- | ------------ | ----------- |
+| **Cour de Ferme** | 20           | 12 min      |
+| **Clairière**     | 20           | 15 min      |
+| **Cimetière**     | 20           | 12 min      |
+| **Transitions**   | 0            | 6 min       |
+| **TOTAL**         | **60**       | **~40 min** |
 
 ✅ **1 cristal par personne minimum (15 personnes × 4 groupes = 60)**  
 ✅ **Facile à retenir : 20-20-20**
