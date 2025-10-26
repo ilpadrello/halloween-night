@@ -2,7 +2,7 @@
 
 ## Accueil à la ferme
 
-Les invités arrivent à la ferme, ils attendent sur le parking, accueillis par le `chauffeur de tracteur` qui leur donne les consigne de sécurité et s'assure que tout le monde est prêt à partir pour 20h.
+Les invités arrivent à la ferme, ils attendent sur le parking, accueillis par le `chauffeur de tracteur` qui leur donne les consigne de sécurité et s'assure que tout le monde est prêt à partir pour 20h. Consigne pour filmer la soirée.
 
 ## Départ vers le bois
 
