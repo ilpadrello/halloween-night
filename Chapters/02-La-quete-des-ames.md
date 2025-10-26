@@ -13,7 +13,7 @@ Les cultistes tapent sur la bétaillère qui s'en vas pendant 5 secondes
 
 ## Attaque du sauveur
 
-De retour à la ferme, le "sauveur" est attaqué par d’autres cultistes qui l’emmènent en criant : "Trouvez les âmes! Trouvez les cristaux! Tout dépend de vous maintenant!".
+De retour à la ferme, le "rescapé" est attaqué par d’autres cultistes qui l’emmènent en criant : "Trouvez les âmes! Trouvez les cristaux! Tout dépend de vous maintenant!". Voir discours Rescapé
 
 ## Début des ateliers
 
@@ -23,3 +23,22 @@ Les cultistes font descendre les participants de la bétaillère et les divisent
 
 - Monologue / révélation du Rescapé (enregistrement) : ~5 min (pendant le retour tracteur)
 - Début des ateliers / brief groupes : partie ateliers commence dans la fenêtre 20h35-21h20 (rotations 40 min/groupe)
+# Cast
+| Nombre | Role             | Notes                                                                                  |
+| ------ | ---------------- | -------------------------------------------------------------------------------------- |
+| 1-2    | Cultistes Retour | 1-2 Cultiste qui accueil le groupe (au moins un qui connait comment diviser les gents) |
+
+## Props
+| Nom                                          | Nombre | Description                              | Type  | VITAL | Notes                                      |
+| -------------------------------------------- | ------ | ---------------------------------------- | ----- | ----- | ------------------------------------------ |
+| Enregistrements audio (fichiers)             | 1      | `Dialogues/rescape.md` (5')              | Audio | [X]   | Message 4-5 min diffusé dans la bétaillère |
+| Costumes cultistes (robes noires + capuches) | 2      | Pour les cultistes présents sur la scène |       | [X]   |                                            |
+
+# TO DO
+| Nom                                                       |                      |
+| --------------------------------------------------------- | -------------------- |
+| S'assurer que les deux cultistes connaissent les familles | Responsable: Casting |
+
+# Danger Sécurité
+| Danger | Action Pour Securiser |
+| ------ | --------------------- |

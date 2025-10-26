@@ -32,54 +32,44 @@ Total Partie 1 (Trajet + Rituel + Retour) : 30 min (détaillé ci‑dessous — 
 
 # Cast
 
-| Nombre | Role                         | Notes                                                                                 |
-| ------ | ---------------------------- | ------------------------------------------------------------------------------------- |
-| 1      | Pretre                       | Départ et Intervention dans les bois                                                  |
-| 1      | Rescapé                      | Intervention dans les bois et Retour à la Ferme                                       |
-| 1      | Chauffeur Tracteur / Accueil | Accueil les gents dans le parking                                                     |
-| 4-5    | Cultistes Bois               | 1-2 Cultiste avec Voiture pour revenir                                                |
-| 1-2    | Cultistes Retour             | 1-2 Cultiste qui accueil le party (au moins un qui connait comment diviser les gents) |
+| Nombre | Role                         | Notes                                                                                  |
+| ------ | ---------------------------- | -------------------------------------------------------------------------------------- |
+| 1      | Prêtre                       | Départ et Intervention dans les bois                                                   |
+| 1      | Rescapé                      | Intervention dans les bois et Retour à la Ferme                                        |
+| 1      | Chauffeur Tracteur / Accueil | Accueil les gents dans le parking                                                      |
+| 4-5    | Cultistes Bois               | 1-2 Cultiste avec Voiture pour revenir                                                 |
 
 # Props
 
-| Nom                                            | Nombre | Utilisation                                                                 | Scénographie                |
-| ---------------------------------------------- | ------ | --------------------------------------------------------------------------- | --------------------------- |
-| Enceinte Betaillere (Puissante)                | 1      | Sono / diffusion en bétaillère (micro + enceinte)                           |                             |
-| Repoduction Sonore pour Enceinte Betaillére    | 1      | Lecteur audio portable / playlist SFX                                       |                             |
-| Enceinte Bois                                  | 1      | Chants en latin                                                             |                             |
-| Repoduction Sonore pour Enceinte Bois          | 1      | Lecteur audio portable / playlist SFX                                       |                             |
-| Autel (caisse + tissu noir)                    | 1      | Mise en scène rituel                                                        | Non vital                   |
-| Torches / bougies LED                          | 10-20  | Éclairage de la clairière, sécurité (pas de flamme)                         | Non vital, mais presque     |
-| Lanternes / éclairage chemin                   | 6-12   | Baliser le trajet vers la clairière                                         | VITAL, en rubalise possible |
-| Enregistrements audio (fichiers)               | 3      | `Dialogues/rescape.md` (5'), `Dialogues/pretre.md` (intro) <br>Chants Latin |                             |
-| Faux Pistolet                                  | 1      | Effet sonore / geste non dangereux pour disperser cultistes                 |                             |
-| Costumes cultistes (robes noires + capuches)   | 6+     | Pour les cultistes présents sur la scène                                    |                             |
-| Costumes Grand Prêtre (robes Rouge + capuches) | 1      | Pour le prêtre, a mettre au moment de la trahison                           |                             |
-| Symboles au sol (craie/farine/cordes)          | 1      | Marquage du cercle rituel                                                   | Non vital                   |
-
-## SFX
-
-| Nom                    | Description                                | Notes                                                  |
-| ---------------------- | ------------------------------------------ | ------------------------------------------------------ |
-| Enregistrement Prêtre  | Discours d'invocation (loop/segments)      | voir `Dialogues/pretre.md` (version live/entraînement) |
-| Enregistrement Rescapé | Message 4-5 min diffusé dans la bétaillère | voir `Dialogues/rescape.md` (fichier d'enregistrement) |
-| Sons rituels / chants  | Boucle ambiance pour la clairière          | volume modulable pour sécurité                         |
+| Nom                                            | Nb    | Utilisation                                                 | Type      | VITAL | Notes                                                                            |
+| ---------------------------------------------- | ----- | ----------------------------------------------------------- | --------- | ----- | -------------------------------------------------------------------------------- |
+| Enceinte Betaillere (Puissante)                | 1     | Sono / diffusion en bétaillère (micro + enceinte)           | Audio     | [X]   |                                                                                  |
+| Reproduction Sonore pour Enceinte Betaillére   | 1     | Lecteur audio portable / playlist SFX                       | Audio     | [X]   |                                                                                  |
+| Enceinte Bois                                  | 1     | Chants en latin                                             | Audio     |       |                                                                                  |
+| Reproduction Sonore pour Enceinte Bois         | 1     | Lecteur audio portable / playlist SFX                       | Audio     |       | VITAL si Enceinte Bois                                                           |
+| Autel (caisse + tissu noir)                    | 1     | Mise en scène rituel                                        | Non vital |       |                                                                                  |
+| Torches / bougies LED                          | 10-20 | Éclairage de la clairière, sécurité (pas de flamme)         |           |       | Must Have                                                                        |
+| Lanternes / éclairage chemin                   | 6-12  | Baliser le trajet vers la clairière                         |           | [X]   | Possible en rubalise                                                             |
+| Enregistrements audio (fichiers)               | 2     | `Dialogues/pretre.md` (intro) <br>Chants Latin              | Audio     | [X]   | Message 7 Min diffusé dans la bétaillère  /Discours d'invocation (loop/segments) |
+| Faux Pistolet                                  | 1     | Effet sonore / geste non dangereux pour disperser cultistes |           | [X]   |                                                                                  |
+| Costumes cultistes (robes noires + capuches)   | 6+    | Pour les cultistes présents sur la scène                    |           | [X]   |                                                                                  |
+| Costumes Grand Prêtre (robes Rouge + capuches) | 1     | Pour le prêtre, a mettre au moment de la trahison           |           | [X]   |                                                                                  |
+| Symboles au sol (craie/farine/cordes)          | 1     | Marquage du cercle rituel                                   |           |       |                                                                                  |
 
 # TO DO
 
-| Nom                                                                    |                         |
-| ---------------------------------------------------------------------- | ----------------------- |
-| Valider capacité et permis d'embarquement (bétaillère)                 | Responsable: Logistique |
-| Préparer et tester les enregistrements (Rescapé 5')                    | Responsable: Audio      |
-| Préparer le monologue du Sauveur (live) et diffusion en bétaillère     | Responsable: Direction  |
-| Préparer fichier audio Chants latin boucle                             |                         |
-| Installer sono dans la bétaillère + test de volume                     | Responsable: Technique  |
-| Construire autel                                                       | Responsable: Décor      |
-| Préparer méthode de séparation par cultiste                            | Responsable: Casting    |
-| Préparer torches LED / balisage chemin                                 | Responsable: Décor/Log. |
-| Vérifier costumes cultistes et répétitions (entrées/sorties)           | Responsable: Casting    |
-| Briefing sécurité acteurs + marshals (codes d'arrêt)                   | Responsable: Sécurité   |
-| S'assurer que le costume du gran prêtre soit amené dans les bois avant | Responsable: Décor/Log. |
+| Nom                                                                     |                         |
+| ----------------------------------------------------------------------- | ----------------------- |
+| Valider capacité et permis d'embarquement (bétaillère)                  | Responsable: Logistique |
+| Préparer et tester les enregistrements (Rescapé 5')                     | Responsable: Audio      |
+| Préparer le monologue du Sauveur (live) et diffusion en bétaillère      | Responsable: Direction  |
+| Préparer fichier audio Chants latin boucle                              |                         |
+| Installer sono dans la bétaillère + test de volume                      | Responsable: Technique  |
+| Construire autel                                                        | Responsable: Décor      |
+| Préparer torches LED / balisage chemin                                  | Responsable: Décor/Log. |
+| Vérifier costumes cultistes et répétitions (entrées/sorties)            | Responsable: Casting    |
+| Briefing sécurité acteurs + marshals (codes d'arrêt)                    | Responsable: Sécurité   |
+| S'assurer que le costume du grand prêtre soit amené dans les bois avant | Responsable: Décor/Log. |
 
 # Danger Sécurité
 
@@ -87,5 +77,4 @@ Total Partie 1 (Trajet + Rituel + Retour) : 30 min (détaillé ci‑dessous — 
 | ------------------------------------- | ------------------------------------------------------------------------------ |
 | Panique / bousculade à l'embarquement | Marshals dédiés au flux, briefing règles de comportement, accès secours dégagé |
 | Obstacles / faible visibilité         | Baliser les chemins, éclairage d'appoint, sols non glissants                   |
-| Panique Génereale                     | Assurer un discours de bienveillance et de sécurité avant l'évenement          |
-|                                       |                                                                                |
+| Panique Génerale                      | Assurer un discours de bienveillance et de sécurité avant l'évènement          |
