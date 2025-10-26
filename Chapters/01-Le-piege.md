@@ -2,15 +2,13 @@
 
 ## Accueil à la ferme
 
-Les invités arrivent à la ferme, ils attendent sur le parking, accueillis par le `chauffeur de tracteur` qui leur donne les consigne de sécurité et s'assure que tout le monde est prêt à partir.
+Les invités arrivent à la ferme, ils attendent sur le parking, accueillis par le `chauffeur de tracteur` qui leur donne les consigne de sécurité et s'assure que tout le monde est prêt à partir pour 20h.
 
 ## Départ vers le bois
 
-Sans plus d’explications, les invités montent à bord d’une bétaillère pour être transportés vers le bois. Pendant le trajet, une voix enregistrée diffuse des révélations inquiétantes :
+Le prêtre arrive et remercie les invités d'être venus, et lui demande montent à bord d’une bétaillère pour être transportés vers le bois. Pendant le trajet, une voix enregistrée diffuse des révélations inquiétantes :
 
-- Les villageois ont disparu depuis l’apparition de la lumière rouge.
-- Des hurlements inquiétants résonnent chaque nuit depuis le bois.
-- Des rumeurs parlent d’un rituel pour invoquer une créature, mais rien n’est certain.
+- discours enregistré (voir `Dialogues/pretre.md`)
 
 ## Arrivée dans le bois
 

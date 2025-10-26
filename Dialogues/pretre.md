@@ -1,10 +1,19 @@
 # Dialogues du Prêtre
 
+# Partie live (avant bétaillère)
+
+"Mes frères et sœurs, merci d'avoir répondu à l'appel."
+"Je sais que le voyage a été long et éprouvant, mais je vous demande encore un dernière effort, je vais tout vous expliquer pendent le trajet."
+"Allez, montez vite ! le temps presse."
+
 ## Partie enregistrée (à diffuser en fond — long monologue, atmosphère)
 
-"Peuples des ténèbres et porteurs de l'ombre, écoutez la vérité révélée : autrefois, notre village a choisi un pacte plus ancien que la peur. Nous avons choisi la voie qui apporte la récolte, la richesse, la protection — mais cette voie exige un tribut. Une lumière rouge est venue du cœur de la forêt et a marqué le temps ; depuis, ceux qui peuplaient nos maisons sont privés de ce qui les animait. Leurs corps marchent encore, mais leurs essences ont été arrachées et transmutées en gemmes de lumière. Ces pierres brillent d'une clarté froide : elles sont le prix de notre prospérité.
+- Les villageois ont disparu (même si c'est pas vrai)
+- Cris dans le bois
+- 
 
-Vous, qui avez répondu à l'appel, n'êtes pas de simples témoins : vous êtes les offrandes proposées et les instruments par lesquels se scellera la promesse. Le rituel que nous accomplirons est ancien — plus ancien que vos noms. Approchez, observez, et laissez la présence vous traverser. Bientôt, le voile se déchirera et notre Maître franchira la porte qui sépare les mondes. Alors s'élèvera la louange et tombera la nuit sur ceux qui n'ont pas su donner.
+"Merci, encore merci d'avoir répondu aussi vite à mon appel à l'aide"
+"mes frère et seures, je sais que vous vous posez beaucoup de questions"
 
 (Incantation rythmée, chuchotée puis chantée)
 "Lux rubra orbis, animae nobis redeunt. Aeterna tenebrae, domino detur corpus. Vocare, ligare, lumen transfundo."
