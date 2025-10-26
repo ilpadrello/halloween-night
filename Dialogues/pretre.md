@@ -96,9 +96,19 @@ Notes pour la technique son : prévoir un fade‑in de la voix sur 0,5–1s, lé
 
 ## Partie live (à jouer devant les invités — monologue court et percutant)
 
-"Enfin, les nouveaux venus sont arrivés. Vous avez foulé notre sol comme on apporte un don. Remerciez le Sauveur d'avoir amené ces offrandes — et souvenez-vous : ce soir, vos cœurs seront témoins d'un grand passage. Le rituel commence maintenant : ne pleurez pas, acceptez votre rôle."
+"Venez, venez, faite attention, mettez-vous en demi-cercle"
 
-"(en voix basse, menaçante) Qu'on scelle le cercle."
+-- Les cultistes se montrent et encerlent les invités --
 
-(brève pause, acte — bruit/effet pour déclencher la suite)
-TEST
+"Ne vous inquiétez pas, mes frères et sœurs, Ne vous inquiétez pas,
+tout cela fait partie du rituel. Vous êtes ici pour une raison importante"
+
+"Vous allez bientôt faire partie de quelque chose de grand, de puissant.
+Un rituel ancien, un passage sacré."
+
+"Je veux vous demander de fermer les yeux un instant, de respirer profondément, allez-y"
+
+"Ne pleurez pas, sachez que vos proches vous attendent de l'autre côté (pause) et ils seront fiers... (De votre sacrifice) de votre SACRIFICE".
+
+-- Pendant le discours les cultistes s'approchent doucement des joueurs --
+-- Le sauveur arrive à ce moment là, tire en l'air pour disperser les cultistes --
