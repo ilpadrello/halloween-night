@@ -55,7 +55,7 @@ Total Partie 1 (Trajet + Rituel + Retour) : 30 min (détaillé ci‑dessous — 
 | Faux Pistolet                                  | 1      | Effet sonore / geste non dangereux pour disperser cultistes                 |                             |
 | Costumes cultistes (robes noires + capuches)   | 6+     | Pour les cultistes présents sur la scène                                    |                             |
 | Costumes Grand Prêtre (robes Rouge + capuches) | 1      | Pour le prêtre, a mettre au moment de la trahison                           |                             |
-| Symboles au sol (craie/farine/cordes)          | 1      | Marquage du cercle rituel                                                   | VITAL                       |
+| Symboles au sol (craie/farine/cordes)          | 1      | Marquage du cercle rituel                                                   | Non vital                   |
 
 ## SFX
 
