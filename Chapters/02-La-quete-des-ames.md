@@ -16,3 +16,8 @@ De retour à la ferme, le "sauveur" est attaqué par d’autres cultistes qui l�
 ## Début des ateliers
 
 Les cultistes font descendre les participants de la bétaillère : c’est alors que commencent les ateliers et les épreuves pour retrouver les cristaux et sauver le village…
+
+# Timing
+
+- Monologue / révélation du Rescapé (enregistrement) : ~5 min (pendant le retour tracteur)
+- Début des ateliers / brief groupes : partie ateliers commence dans la fenêtre 20h35-21h20 (rotations 40 min/groupe)

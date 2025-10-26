@@ -13,3 +13,7 @@ Le démon se nourrit d’énergie négative, c’est pour cela que les cultistes
 Le rescapé commence alors à danser sans musique et invite tout le monde à le rejoindre. Lorsque les invités se mettent à danser, le démon recule progressivement, et la musique démarre enfin !
 
 La tension disparaît, la fête peut commencer : tout est prêt pour célébrer la victoire sur le mal et profiter d’une soirée festive et joyeuse.
+
+# Timing
+
+- Finale / apparition de la Bête + transformation en fête : 20 min (21h40-22h00 selon le Déroulé)

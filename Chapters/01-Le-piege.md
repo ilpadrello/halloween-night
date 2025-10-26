@@ -2,11 +2,7 @@
 
 ## Accueil à la ferme
 
-Les invités arrivent à la ferme, accueillis par un acteur qui les plonge immédiatement dans l’ambiance :
-
-- Il raconte qu’une étrange lumière rouge est apparue il y a quelques jours au milieu du bois voisin.
-- Depuis cet événement, les habitants du village semblent avoir mystérieusement disparu.
-- Des hurlements résonnent chaque nuit, et des rumeurs circulent sur un rituel inquiétant destiné à invoquer une créature démoniaque.
+Les invités arrivent à la ferme, ils attendent sur le parking, accueillis par le `chauffeur de tracteur` qui leur donne les consigne de sécurité et s'assure que tout le monde est prêt à partir.
 
 ## Départ vers le bois
 
@@ -28,22 +24,31 @@ Les invités descendent et s’enfoncent dans la forêt, guidés par des sons é
 
 Au dernier moment, un rescapé surgit, tire en l’air pour disperser les cultistes, et guide les invités vers la suite de l’aventure…
 
+# Timing
+
+- Trajet tracteur (Parking → Bois) : 10 min (Scène 1)
+- Rituel dans les bois (Clairière) : 15 min (Scène 2)
+- Retour / Embarquement chaotique (Bétaillère) : 5 min (Scène 3)
+
+Total Partie 1 (Trajet + Rituel + Retour) : 30 min (détaillé ci‑dessous — le Déroulé liste 25 min pour les deux premières scènes : Trajet 10 + Rituel 15)
+
 # Personnages
 
 | Role    | Description Des Actions                         |
 | ------- | ----------------------------------------------- |
 | Pretre  | Accueil et Intervention dans les bois           |
 | Rescapé | Intervention dans les bois et Retour à la Ferme |
+| Accueil | Accueil les invitées                            |
 
 # Cast
 
-| Nombre | Role               | Notes                                                                                 |
-| ------ | ------------------ | ------------------------------------------------------------------------------------- |
-| 1      | Pretre             |                                                                                       |
-| 1      | Rescapé            |                                                                                       |
-| 1      | Chauffeur Tracteur |                                                                                       |
-| 4-5    | Cultistes Bois     | 1-2 Cultiste avec Voiture pour revenir                                                |
-| 1-2    | Cultistes Retour   | 1-2 Cultiste qui accueil le party (au moins un qui connait comment diviser les gents) |
+| Nombre | Role                         | Notes                                                                                 |
+| ------ | ---------------------------- | ------------------------------------------------------------------------------------- |
+| 1      | Pretre                       |                                                                                       |
+| 1      | Rescapé                      |                                                                                       |
+| 1      | Chauffeur Tracteur / Accueil | Accueil les gents dans le parking                                                     |
+| 4-5    | Cultistes Bois               | 1-2 Cultiste avec Voiture pour revenir                                                |
+| 1-2    | Cultistes Retour             | 1-2 Cultiste qui accueil le party (au moins un qui connait comment diviser les gents) |
 
 # Materiel
 
