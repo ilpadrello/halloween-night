@@ -1,14 +1,16 @@
-# 7 La Fête Finale
 
-Une fois tous les cristaux récoltés, tous les invités sont accompagnés vers un silo pour y déposer les cristaux trouvés.
+Une fois tous les cristaux récoltés, tous les invités sont accompagnés vers la salle du rituel.
+Un cultiste caché dans le silo essaye d'attraper les passants
+Le prêtre les attend et passe parmi eux pour récupérer les cristaux. Ils doivent les déposer dans une jarre de cérémonie.
+Lorsque le dernier cristal est placé, le prêtre prononce quelques mots et entre par une porte latérale pour rentrer seul dans la salle. Là, on entend le rituel d'invocation, puis de la lumière rouge jaillit sous la grande porte, ainsi que de la fumée, créant une atmosphère inquiétante. Le prêtre se fait dévorer par le démon, on l'entend crier et taper sur la porte.
 
-Lorsque le dernier cristal est placé, le prêtre prononce le rituel final. Des lumières rouges jaillissent derrière une grande porte, créant une atmosphère inquiétante. Le prêtre entre par une porte latérale et se fait dévorer par le démon, dont la naissance est ainsi annoncée.
+Les portes s’ouvrent alors et le démon apparaît devant tout le monde !
 
-Les portes s’ouvrent alors brusquement et le démon apparaît devant tout le monde !
+Les cultistes ont peur. 
 
-À ce moment précis, le rescapé réapparaît pour tenter de protéger les invités. Il explique qu’il a compris comment vaincre le monstre :
+À ce moment précis, le rescapé réapparaît derrière tout le monde et se place devant pour tenter de protéger les invités. Il explique qu’il y a encore un espoir pour vaincre le monstre :
 
-Le démon se nourrit d’énergie négative, c’est pour cela que les cultistes ont cherché à effrayer tout le monde. Pour le repousser, il faut générer de l’énergie positive !
+Le démon se nourrit de la peur, c’est pour cela que les cultistes ont cherché à effrayer tout le monde. Pour le repousser, il faut générer de l’énergie positive !
 
 Le rescapé commence alors à danser sans musique et invite tout le monde à le rejoindre. Lorsque les invités se mettent à danser, le démon recule progressivement, et la musique démarre enfin !
 
@@ -24,28 +26,32 @@ La tension disparaît, la fête peut commencer : tout est prêt pour célébrer 
 
 
 # Cast
-| Nombre | Role              | Notes |
-| ------ | ----------------- | ----- |
-| 1      | Démon             |       |
-| 1      | Prêtre            |       |
-| 1      | Rescapé           |       |
-| tous   | Cultistes         |       |
-| 1      | Lancement musique |       |
+| Nombre | Role              | Notes                                                                  |
+| ------ | ----------------- | ---------------------------------------------------------------------- |
+| 1      | Démon             |                                                                        |
+| 1      | Prêtre            | Gère aussi effet lumière, fumé, ouverture porte, taper sur la porte... |
+| 1      | Rescapé           | Fait aussi le cultiste du silo                                         |
+| tous   | Cultistes         |                                                                        |
+| 2      | Lancement musique | Gère aussi effet lumière, fumé, ouverture porte, taper sur la porte... |
 
 ## Props
-| Nom                      | Nombre | Description                                                        | Type | VITAL | Notes |
-| ------------------------ | ------ | ------------------------------------------------------------------ | ---- | ----- | ----- |
-| Machine à fumé + glaçons | 1      | La machine à fumé pour faire un effet de fumé qui sort de la piece | SFX  | [x]   |       |
-| Sono pour la soirée      | 1      |                                                                    |      | [X]   |       |
-| Costume de Démon         | 1      | Cape rouge customisée                                              |      | [X]   |       |
-| Lumiere à led Rouge      | 1      | Effet de lumiere rouge derrière le demon                           |      |       |       |
+| Nom                 | Nombre | Description                                                        | Type | VITAL | Notes |
+| ------------------- | ------ | ------------------------------------------------------------------ | ---- | ----- | ----- |
+| Machine à fumé      | 1      | La machine à fumé pour faire un effet de fumé qui sort de la piece | SFX  | [x]   |       |
+| Sono pour la soirée | 1      |                                                                    |      | [X]   |       |
+| Costume de Démon    | 1      | Cape rouge customisée                                              |      | [X]   |       |
+| Lumiere à led Rouge | 1      | Effet de lumiere rouge derrière le demon                           |      | [X]   |       |
+| Jarre de cérémonie  | 1      |                                                                    |      | [X]   |       |
+| Bande son cérémonie | 1      |                                                                    |      | [X]   |       |
 
 # TO DO
-| Nom                                               |     |
-| ------------------------------------------------- | --- |
-| Acheter le tuyau pour mettre les bouteilles glacé |     |
-| Congeler les bouteilles d'eau pour effet fumé     |     |
-| Confectionner costume démon                       |     |
+| Nom                         |     |
+| --------------------------- | --- |
+| Bande son cérémonie         |     |
+| Placer les lumiéres         |     |
+| Confectionner costume démon |     |
+| Trouver Jarre de cérémonie  |     |
+|                             |     |
 
 # Danger Sécurité
 | Danger                                                 | Action Pour Securiser |
