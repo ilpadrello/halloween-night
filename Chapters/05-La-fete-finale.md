@@ -16,4 +16,36 @@ La tension disparaît, la fête peut commencer : tout est prêt pour célébrer 
 
 # Timing
 
-- Finale / apparition de la Bête + transformation en fête : 20 min (21h40-22h00 selon le Déroulé)
+- Finale / apparition de la Bête + transformation en fête : 10 min
+
+# Notes
+
+
+# Cast
+| Nombre | Role      | Notes |
+| ------ | --------- | ----- |
+| 1      | Demon     |       |
+| 1      | Pretre    |       |
+| 1      | Rescapé   |       |
+| tous   | Cultistes |       |
+|        |           |       |
+
+## Props
+| Nom                      | Nombre | Description                                                        | Type | VITAL | Notes |
+| ------------------------ | ------ | ------------------------------------------------------------------ | ---- | ----- | ----- |
+| Machine à fumé + glaçons | 1      | La machine à fumé pour faire un effet de fumé qui sort de la piece | SFX  | [x]   |       |
+| Sono pour la soirée      | 1      |                                                                    |      | [X]   |       |
+| Lumiere à led Rouge      | 1      | Effet de lumiere rouge derrière le demon                           |      |       |       |
+
+# TO DO
+| Nom                                               |     |
+| ------------------------------------------------- | --- |
+| Acheter le tuyau pour mettre les bouteilles glacé |     |
+| Congeler les bouteilles d'eau pour effet fumé     |     |
+|                                                   |     |
+
+# Danger Sécurité
+| Danger                                                 | Action Pour Securiser |
+| ------------------------------------------------------ | --------------------- |
+| Assurer que le costume du Demon ne soit pas trop lourd |                       |
+|                                                        |                       |
