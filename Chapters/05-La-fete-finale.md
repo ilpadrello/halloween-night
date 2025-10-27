@@ -12,6 +12,8 @@ Le démon se nourrit d’énergie négative, c’est pour cela que les cultistes
 
 Le rescapé commence alors à danser sans musique et invite tout le monde à le rejoindre. Lorsque les invités se mettent à danser, le démon recule progressivement, et la musique démarre enfin !
 
+Le démon penche la tête sur le coté comme un animal qui cherche a comprendre, puis se met progressivement a danser
+
 La tension disparaît, la fête peut commencer : tout est prêt pour célébrer la victoire sur le mal et profiter d’une soirée festive et joyeuse.
 
 # Timing
@@ -22,19 +24,20 @@ La tension disparaît, la fête peut commencer : tout est prêt pour célébrer 
 
 
 # Cast
-| Nombre | Role      | Notes |
-| ------ | --------- | ----- |
-| 1      | Demon     |       |
-| 1      | Pretre    |       |
-| 1      | Rescapé   |       |
-| tous   | Cultistes |       |
-|        |           |       |
+| Nombre | Role              | Notes |
+| ------ | ----------------- | ----- |
+| 1      | Démon             |       |
+| 1      | Prêtre            |       |
+| 1      | Rescapé           |       |
+| tous   | Cultistes         |       |
+| 1      | Lancement musique |       |
 
 ## Props
 | Nom                      | Nombre | Description                                                        | Type | VITAL | Notes |
 | ------------------------ | ------ | ------------------------------------------------------------------ | ---- | ----- | ----- |
 | Machine à fumé + glaçons | 1      | La machine à fumé pour faire un effet de fumé qui sort de la piece | SFX  | [x]   |       |
 | Sono pour la soirée      | 1      |                                                                    |      | [X]   |       |
+| Costume de Démon         | 1      | Cape rouge customisée                                              |      | [X]   |       |
 | Lumiere à led Rouge      | 1      | Effet de lumiere rouge derrière le demon                           |      |       |       |
 
 # TO DO
@@ -42,7 +45,7 @@ La tension disparaît, la fête peut commencer : tout est prêt pour célébrer 
 | ------------------------------------------------- | --- |
 | Acheter le tuyau pour mettre les bouteilles glacé |     |
 | Congeler les bouteilles d'eau pour effet fumé     |     |
-|                                                   |     |
+| Confectionner costume démon                       |     |
 
 # Danger Sécurité
 | Danger                                                 | Action Pour Securiser |
