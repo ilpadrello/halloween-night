@@ -14,35 +14,32 @@
 ## Partie enregistrée (à diffuser dans la bétaillère — monologue informatif)
 
 "Écoutez-moi, et écoutez bien chaque mot : je n'ai que peu de temps et beaucoup de peur.
-Il y a quelques nuits, une lumière rouge est apparue dans le bois, et depuis ce jour, le village n'est plus le même.
-Les gents on commencer à changer, ils était pas eux même, ils était comme vide à l'intérieur.
-Un soir je me suis caché dans le bois et la j'ai vu ce qu'il se passait ! Ils prennent leurs âmes, ils le vident de leur âmes .
-Je sais pas vous expliquer mais pendent ce rituel différents lumières de différents couleurs sort de leur corps sous forme de cristaux lumineux.
-J'ai aussi entendu parler d'un rituel pour faire traverser un démon de l'enfer dans notre monde.
-Je crois qu'ils ont besoin de nos âmes pour faire ce rituel, donc ils ont besoins de ces cristaux lumineux.
-mais j'ai réussi à récupérer la plus part de ces pierres et à les cacher.
-C'était pas une mission facile, mais putain, j'ai réussi à les récupérer et à les cacher !
+Il y a quelques nuits, une lumière rouge est apparue dans le bois, et depuis ce jour, le village n'est plus le même. Les gens ont commencé à changer. Ils n'étaient plus eux-mêmes, ils étaient comme... vides à l'intérieur.
+Un soir, je me suis caché dans le bois et là, j'ai vu ce qui se passait ! Ils prennent leurs âmes, ils les vident de leur âme.
 
-si nous les rassemblons, peut-être, on vas pouvoir rendre l'âme a mes amis.
-Oui, il faut les rassembler !
+Je ne sais pas comment vous l'expliquer, mais pendant ce rituel, différentes lumières de différentes couleurs sortent de leur corps sous forme de cristaux lumineux.
 
-Mais je ne peux pas le faire seul, j'ai besoins de vous pour ça!
+J'ai aussi entendu parler d'un rituel pour faire traverser un démon de l'enfer dans notre monde. Je crois qu'ils ont besoin de nos âmes pour accomplir ce rituel, donc ils ont besoin de ces cristaux lumineux. J'ai réussi à récupérer la plupart de ces pierres et à les cacher. Ce n'était pas une mission facile, mais putain, j'ai réussi à les récupérer et à les cacher ! Si nous les rassemblons, peut-être qu'on pourra rendre leur âme à mes amis.
+
+Oui, il faut les rassembler ! Mais je ne peux pas le faire seul, j'ai besoin de vous pour ça !
+
 J'ai besoin de mains courageuses, d'yeux vifs et de têtes claires...
-si vous êtes frileux, eh bah, c'est le moment de vous faire pousser des cou.. ahi, cette route est horrible, j'espère que tout ce passe bien la derrière.
+Si vous êtes frileux, eh bien, c'est le moment de vous faire pousser des cou... Aïe ! Cette route est horrible, j'espère que tout se passe bien là-derrière.
 
-Bref, Cherchez, fouillez, trouvez les indices que j'ai laissés. Il faudra trouver un max de cristaux lumineux pour aboutir notre mission et sauver mes camarades.
+Bref. Cherchez, fouillez, trouvez les indices que j'ai laissés. Il faudra trouver un maximum de cristaux lumineux pour mener à bien notre mission et sauver mes camarades.
 
-Aussi Super Important: ne blessez personne!
-Je répète : ne blessez personne!
-Leurs corps sont piégés mais leurs âmes sont toujours la.
+Aussi, super important : ne blessez personne !
+Je répète : ne blessez personne ! Leurs corps sont piégés mais leurs âmes sont toujours là.
 
-TROUVEZ CES FICHUX CRISTAUX, VOUS AVEZ TOUS LES INDICES QU'IL FAUT!
+TROUVEZ CES FICHUS CRISTAUX, VOUS AVEZ TOUS LES INDICES QU'IL FAUT !
+
 Nous devons les arrêter et les faire revenir à la normale.
 
 Si vous réussissez, peut-être aurons-nous une chance.
+
 Si vous échouez... que Dieu nous protège.
 
-Nous somme presque arrivé... silence maintenant"
+Nous sommes presque arrivés... Silence maintenant."
 
 
 #### Le rescapé se fait attraper
