@@ -4,7 +4,7 @@ const path = require('path');
 
 const root = path.resolve(__dirname, '..');
 const chaptersDir = path.join(root, 'Chapters');
-const outDir = path.join(root, 'Props');
+const outDir = path.join(root, 'generated');
 const outFile = path.join(outDir, 'generated_props.md');
 
 function isHeaderLine(line) {

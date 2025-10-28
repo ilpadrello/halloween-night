@@ -1,6 +1,6 @@
 # Generated props (tables extracted from Chapters)
 
-> Generated on 2025-10-27T21:26:27.963Z by scripts/props.js
+> Generated on 2025-10-28T00:01:27.917Z by scripts/props.js
 
 ## 0 empty
 
@@ -39,21 +39,22 @@
 
 ## 04.1-atelier-la-cour-de-la-ferme
 
-| Nom                       | Nb    | Description                                                           | Type       | VITAL | Notes |
-| ------------------------- | ----- | --------------------------------------------------------------------- | ---------- | ----- | ----- |
-| Cristaux                  | 20    | À préparer en réserve (sacs numérotés pour remise à zéro)             | Accessoire | [X]   |       |
-| Bassine (supportée)       | 1     | Structure solide + bassine opaque; accès pour acteur + gants étanches | SFX        | [X]   |       |
-| Tronçonneuse (prop)       | 1     | Prop sans chaîne — signal visuel fort pour jump scare                 | Accessoire | [X]   |       |
-| Indices écrits            | 5     | Papiers vieillis / parchemins                                         | Accessoire | [X]   |       |
-| Pot/Seau terre humide     | 1     | Contient 1 cristal                                                    | Accessoire | [X]   |       |
-| Marmite de spaghettis     | 1     | Pour le seau viscères (portion contrôlée et hygiénique)               | Accessoire | [X]   |       |
-| Réserve cristaux (sacs)   | 1 set | Sac/boîte avec 20 cristaux pour remise à zéro rapide                  | Accessoire | [X]   |       |
-| Rallonge + Multiprise     | 1     | Pour activer le blender, ou autre (lumieres etc)                      | Accessoire | [X]   |       |
-| Affichage Nombre Cristaux | 1     | Tableau effaçable ou panneau visible à l'entrée de l'atelier          | Decor      |       |       |
-| Lanternes LED             | 5-8   | Éclairage faible, points de repère                                    |            |       |       |
-| Blender Autonome          | 1     | Un blender qui s'active au moment où quelqu'un met la main dedans     |            |       |       |
-| Pot de farine             | 1     | enveloppés                                                            |            |       |       |
-|                           |       |                                                                       |            |       |       |
+| Nom                                   | Nb    | Description                                                           | Type       | VITAL | Notes |
+| ------------------------------------- | ----- | --------------------------------------------------------------------- | ---------- | ----- | ----- |
+| Cristaux                              | 20    | À préparer en réserve (sacs numérotés pour remise à zéro)             | Accessoire | [X]   |       |
+| Bassine (supportée)                   | 1     | Structure solide + bassine opaque; accès pour acteur + gants étanches | SFX        | [X]   |       |
+| Tronçonneuse (prop)                   | 1     | Prop sans chaîne — signal visuel fort pour jump scare                 | Accessoire | [X]   |       |
+| Indices écrits                        | 5     | Papiers vieillis / parchemins                                         | Accessoire | [X]   |       |
+| Pot/Seau terre humide                 | 1     | Contient 1 cristal                                                    | Accessoire | [X]   |       |
+| Marmite de spaghettis                 | 1     | Pour le seau viscères (portion contrôlée et hygiénique)               | Accessoire | [X]   |       |
+| Réserve cristaux (sacs)               | 1 set | Sac/boîte avec 20 cristaux pour remise à zéro rapide                  | Accessoire | [X]   |       |
+| Rallonge + Multiprise                 | 1     | Pour activer le blender, ou autre (lumieres etc)                      | Accessoire | [X]   |       |
+| Affichage Nombre Cristaux             | 1     | Tableau effaçable ou panneau visible à l'entrée de l'atelier          | Decor      |       |       |
+| Lanternes LED                         | 5-8   | Éclairage faible, points de repère                                    | Decor      |       |       |
+| Blender Autonome                      | 1     | Un blender qui s'active au moment où quelqu'un met la main dedans     | Accesoir   |       |       |
+| Pot de farine                         | 1     | enveloppés                                                            | Accesoir   | [X]   |       |
+| Pentacle dessiné autour de la bassine | 1     | Utiliser farine blanche / craie / peinture temporaire                 | Decor      |       |       |
+| Bassine décorée                       | 1     | Éléments effrayants + algues en plastique                             | Decor      | [X]   |       |
 
 ## 04.2-atelier-le-cimetiere
 
